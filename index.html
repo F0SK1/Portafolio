@@ -315,6 +315,7 @@
         const copyStatus = document.querySelector(".copy-status");
         let currentLanguage = "es";
 
+        // Al cambiar el idioma, actualiza a la vez los textos y los metadatos de la página.
         languageToggle.addEventListener("click", () => {
             currentLanguage = currentLanguage === "es" ? "en" : "es";
             document.documentElement.lang = currentLanguage;

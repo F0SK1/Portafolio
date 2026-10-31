@@ -2,6 +2,10 @@
 
 A responsive personal portfolio presenting my background in web application development, IT support experience, education, and technical skills. The site is available in Spanish and English.
 
+## Live site
+
+Visit the portfolio at [portafolio-kohl-eight-99.vercel.app](https://portafolio-kohl-eight-99.vercel.app/).
+
 ## Features
 
 - Responsive layout for desktop and mobile screens
@@ -15,25 +19,7 @@ A responsive personal portfolio presenting my background in web application deve
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
 - DM Sans and DM Mono fonts from Google Fonts
-
-## Run locally
-
-No dependencies or build step are required.
-
-1. Clone or download this repository.
-2. Open `index.html` in a browser, or serve the project directory with a local static server. For example:
-
-   ```bash
-   python -m http.server 8000
-   ```
-
-3. Visit `http://localhost:8000`.
-
-## Deployment
-
-This is a static website. Publish `index.html` and `style.css` together using a static hosting provider such as GitHub Pages, Netlify, or Cloudflare Pages. No server-side configuration is needed.
 
 ## Project structure
 
