@@ -566,6 +566,19 @@ a:focus-visible {
     font-size: 14px;
 }
 
+.button-social {
+    min-height: 38px;
+    gap: 8px;
+    padding-inline: 12px;
+    border-color: var(--line);
+    color: var(--muted);
+}
+
+.button-social:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
 .contact-actions {
     display: flex;
     flex-wrap: wrap;
